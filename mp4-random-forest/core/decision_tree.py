@@ -345,27 +345,27 @@ class DecisionTree(BinaryTree):
         if pre_pruning and current_height > max_tree_height:
             try:
                 majority_class = cls.find_majority_class(label_list)
-                node._label = ('class', majority_class[0])  # set to that class
+                node.label = ('class', majority_class[0])  # set to that class
             except InvalidDatasetError:
-                node._label = ('class', random.sample(label_list, 1))
+                node.label = ('class', random.sample(label_list, 1))
             return node
 
         if node.all_same_label(label_list):
             try:
-                node._label = ('class', label_list[0])  # set to that class
+                node.label = ('class', label_list[0])  # set to that class
             except InvalidDatasetError:
-                node._label = ('class', random.sample(label_list, 1))
+                node.label = ('class', random.sample(label_list, 1))
             return node
 
         if node.no_splitting_attribute(features_list):
             majority_class = cls.find_majority_class(label_list)
-            node._label = ('class', majority_class[0])
+            node.label = ('class', majority_class[0])
             return node
 
         split_sub_set = node.attribute_selection_method(
             label_list, features_list, is_randomize=is_randomize)
 
-        node._label = ('split', split_sub_set.candidate)
+        node.label = ('split', split_sub_set.candidate)
 
         yes_features_list = [
             feature_row for index, feature_row in enumerate(features_list)
@@ -388,23 +388,23 @@ class DecisionTree(BinaryTree):
 
         if not yes_labels_list:
             left_node = cls()
-            left_node._label = ('class', left_node.find_majority_class(label_list))
-            left_node._parent = node
-            node._left_node = left_node
+            left_node.label = ('class', left_node.find_majority_class(label_list))
+            left_node.parent = node
+            node.left_node = left_node
         else:
             left_node = cls.create_decision_tree(
                 yes_labels_list, yes_features_list,
                 pre_pruning=pre_pruning, max_tree_height=max_tree_height,
                 current_height=current_height + 1
             )
-            left_node._parent = node
-            node._left_node = left_node
+            left_node.parent = node
+            node.left_node = left_node
 
         if not no_labels_list:
             right_node = cls()
-            right_node._label = ('class', right_node.find_majority_class(label_list))
-            right_node._parent = node
-            node._right_node = right_node
+            right_node.label = ('class', right_node.find_majority_class(label_list))
+            right_node.parent = node
+            node.right_node = right_node
 
         else:
             right_node = cls.create_decision_tree(
@@ -412,8 +412,8 @@ class DecisionTree(BinaryTree):
                 pre_pruning=pre_pruning, max_tree_height=max_tree_height,
                 current_height=current_height + 1
             )
-            right_node._parent = node
-            node._right_node = right_node
+            right_node.parent = node
+            node.right_node = right_node
 
         return node
 
