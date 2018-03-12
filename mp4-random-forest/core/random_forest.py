@@ -126,7 +126,7 @@ class RandomForest:
 
         for rnd in range(number_of_sample):
 
-            selected_indices = random.sample(all_indices, number_of_elements)
+            selected_indices = random.choices(all_indices, k=number_of_elements)
 
             train_label_sample.append(
                 [label for idx, label in enumerate(label_list)
