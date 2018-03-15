@@ -1,0 +1,3010 @@
+3278 data
+2440 database
+1973 query
+637 processing
+589 relational
+562 xml
+423 stream
+313 query processing
+303 object
+253 data stream
+251 efficient
+248 database query
+224 oriented
+218 database relational
+201 database object
+196 optimization
+184 query data
+168 database oriented
+166 query optimization
+165 management
+154 object oriented
+143 view
+136 base
+136 access
+135 distributed
+133 database data
+133 base data
+127 database object oriented
+125 design
+122 evaluation
+121 data relational
+120 management data
+117 spatial
+113 query xml
+112 xml data
+110 data efficient
+106 querying
+100 integration
+99 query efficient
+96 schema
+96 temporal
+94 structured
+93 technique
+89 dimensional
+88 warehouse
+87 join
+87 data processing
+84 deductive
+81 source
+81 privacy
+80 framework
+79 update
+78 object query
+78 dimensional data
+77 continuous
+77 database deductive
+76 structure
+76 answering
+76 integration data
+75 sql
+74 evaluation query
+73 data warehouse
+72 heterogeneous
+72 tool
+72 query answering
+71 environment
+71 database processing
+71 query relational
+69 data distributed
+68 database design
+67 performance
+67 data privacy
+66 indexing
+66 aggregate
+65 data access
+64 scheme
+64 complex
+64 abstract
+63 database efficient
+63 structure data
+62 structured data
+61 adaptive
+61 approximate
+61 expansion
+60 expression
+60 optimizing
+59 architecture
+59 query stream
+58 query expansion
+58 object data
+57 type
+57 parallel
+57 stream processing
+56 scalable
+56 supporting
+56 data source
+55 top
+54 managing
+54 cube
+54 preserving
+53 data view
+53 query continuous
+52 statistical
+51 design data
+50 storage
+50 transaction
+50 query view
+49 server
+49 incomplete
+49 spatial data
+48 strategy
+48 range
+47 interface
+47 towards
+47 sensor
+47 database spatial
+47 querying data
+46 memory
+46 semantics
+46 logical
+46 database temporal
+46 processing efficient
+46 database management
+45 discovery
+45 relation
+45 database distributed
+45 database update
+44 caching
+44 multiple
+44 data preserving
+44 database query processing
+43 implementation
+43 interactive
+43 environment data
+42 technology
+42 warehousing
+42 scientific
+42 multimedia
+42 database evaluation
+42 tool data
+42 data technique
+41 mapping
+41 panel
+41 driven
+41 uncertain
+41 recursive
+41 path
+41 database querying
+41 database access
+41 data cube
+41 database xml
+40 data framework
+39 index
+39 processor
+39 xpath
+39 data warehousing
+39 query oriented
+39 heterogeneous data
+39 xml relational
+39 query optimizing
+38 machine
+38 query aggregate
+38 query top
+38 database scheme
+38 query join
+38 query data processing
+37 service
+37 support
+37 mobile
+37 specification
+37 xml processing
+37 database optimization
+37 data oriented
+37 data abstract
+37 query processing efficient
+36 aware
+36 aggregation
+36 dependency
+36 type data
+36 query distributed
+36 database performance
+36 database technique
+36 adaptive data
+36 privacy preserving
+35 challenge
+35 load
+35 replicated
+35 data temporal
+35 query sql
+35 database schema
+35 query approximate
+34 rewriting
+34 maintenance
+34 streaming
+34 data indexing
+34 query temporal
+33 engineering
+33 engine
+33 practical
+33 sharing
+33 nearest
+33 massive
+33 algebra
+33 semistructured
+33 data schema
+33 xml efficient
+33 spatial query
+33 query range
+33 query recursive
+33 data privacy preserving
+32 result
+32 monitoring
+32 olap
+32 query complex
+31 execution
+31 translation
+31 functional
+31 transformation
+31 gene
+31 active
+31 research
+31 integrity
+31 data expression
+31 data scalable
+30 materialized
+30 effective
+30 security
+30 visualization
+30 compression
+30 operation
+30 data storage
+30 data semistructured
+30 database technology
+30 data gene
+30 database logical
+30 object query oriented
+30 query data stream
+29 neighbor
+29 physical
+29 window
+29 publishing
+29 query rewriting
+29 query source
+29 data massive
+29 distributed processing
+29 database view
+29 neighbor nearest
+29 database query relational
+28 noisy
+28 optimizer
+28 internet
+28 visual
+28 shared
+28 complexity
+28 data driven
+28 database statistical
+28 data continuous
+28 data interactive
+28 data uncertain
+28 database object query
+28 database query optimization
+27 integrating
+27 nested
+27 summary
+27 event
+27 data managing
+27 query access
+27 noisy data
+27 data incomplete
+27 database machine
+27 architecture data
+27 database panel
+26 platform
+26 operator
+26 sampling
+26 categorical
+26 replication
+26 multidimensional
+26 exploiting
+26 algebraic
+26 fusion
+26 conjunctive
+26 materialized view
+26 evaluation data
+26 data scientific
+26 data sensor
+26 data maintenance
+26 database indexing
+26 query supporting
+26 database tool
+26 data join
+26 query conjunctive
+26 database transaction
+26 database multimedia
+26 database server
+26 data sharing
+26 challenge data
+25 modeling
+25 cache
+25 change
+25 federated
+25 dbms
+25 issue
+25 result query
+25 database supporting
+25 object relational
+25 data streaming
+25 querying xml
+25 gene expression
+25 data visualization
+25 strategy query
+24 handling
+24 evaluating
+24 execution query
+24 query adaptive
+24 query framework
+24 data fusion
+24 database architecture
+24 database integration
+24 database abstract
+24 data categorical
+24 data complex
+24 query distributed processing
+24 data gene expression
+23 extracting
+23 maintaining
+23 value
+23 answer
+23 attribute
+23 quality
+23 discovering
+23 partitioning
+23 query xpath
+23 data multiple
+23 database integrity
+23 structured query
+23 query technique
+23 database interface
+23 database discovery
+23 data optimization
+23 query optimizer
+23 database parallel
+23 query path
+23 performance data
+23 database heterogeneous
+23 service data
+23 database research
+23 data parallel
+23 data stream processing
+22 scale
+22 unstructured
+22 experience
+22 biological
+22 exploration
+22 intensive
+22 cleaning
+22 db2
+22 database semantics
+22 xml view
+22 database sql
+22 database implementation
+22 mapping data
+22 relational algebra
+22 database memory
+22 data compression
+22 engineering data
+22 database incomplete
+22 data aggregate
+22 processing relational
+22 query stream processing
+21 predicate
+21 historical
+21 generalized
+21 broadcast
+21 computation
+21 exchange
+21 placement
+21 containment
+21 evaluation efficient
+21 mobile data
+21 object processing
+21 processing join
+21 discovery data
+21 data quality
+21 data cleaning
+21 database specification
+20 cost
+20 main
+20 dissemination
+20 cluster
+20 tuning
+20 equivalence
+20 efficiently
+20 microarray
+20 oracle
+20 data server
+20 data approximate
+20 query complexity
+20 data range
+20 xml stream
+20 platform data
+20 query nearest
+20 data microarray
+20 data optimizing
+20 database relation
+20 database environment
+20 database object relational
+19 requirement
+19 semi
+19 selectivity
+19 table
+19 moving
+19 providing
+19 independent
+19 concurrency
+19 tutorial
+19 file
+19 universal
+19 skyline
+19 data broadcast
+19 database support
+19 integration query
+19 database active
+19 environment query
+19 aware query
+19 statistical data
+19 data olap
+19 query translation
+19 memory data
+19 database managing
+19 query parallel
+19 query containment
+19 database replicated
+19 database join
+19 data publishing
+19 query xml processing
+18 integrated
+18 highly
+18 manipulation
+18 size
+18 regular
+18 imprecise
+18 partitioned
+18 data change
+18 database towards
+18 query answer
+18 data dissemination
+18 heterogeneous query
+18 query sensor
+18 stream continuous
+18 data transaction
+18 query caching
+18 relational schema
+18 database scientific
+18 view relational
+18 data supporting
+18 extracting data
+18 data towards
+18 data aggregation
+18 query neighbor
+18 base relational
+18 database structured
+18 query performance
+18 aware data
+18 query evaluating
+18 data handling
+18 data intensive
+18 data exchange
+18 query processor
+18 database query oriented
+18 evaluation query efficient
+18 object query processing
+18 query neighbor nearest
+18 base data relational
+18 database object query oriented
+17 evolution
+17 decomposition
+17 future
+17 expressive
+17 business
+17 support data
+17 database strategy
+17 query deductive
+17 stream window
+17 database federated
+17 query towards
+17 query update
+17 object complex
+17 data semantics
+17 data load
+17 data index
+17 query xml data
+17 object data oriented
+16 software
+16 study
+16 hierarchy
+16 manager
+16 consistency
+16 workload
+16 array
+16 detecting
+16 computer
+16 shedding
+16 extension
+16 practice
+16 middleware
+16 repository
+16 data logical
+16 integrating data
+16 data unstructured
+16 data answering
+16 interface query
+16 xml schema
+16 database top
+16 database framework
+16 data scheme
+16 processing continuous
+16 database universal
+16 database main
+16 predicate query
+16 data replicated
+16 data sql
+16 database caching
+16 base design
+16 xml data efficient
+16 query xml efficient
+16 base design data
+15 perspective
+15 searching
+15 self
+15 locking
+15 multiversion
+15 online
+15 sequence
+15 centric
+15 client
+15 modelling
+15 definition
+15 cad
+15 form
+15 updating
+15 presence
+15 commerce
+15 unlabeled
+15 compressed
+15 xquery
+15 microsoft
+15 monitoring data
+15 data scale
+15 database storage
+15 data replication
+15 load shedding
+15 data discovering
+15 database dependency
+15 spatial processing
+15 oriented relational
+15 data multimedia
+15 query index
+15 data practical
+15 modeling data
+15 data window
+15 data unlabeled
+15 database future
+15 data cluster
+15 database scalable
+15 query relation
+15 database complex
+15 database tuning
+15 data update
+15 database query deductive
+15 database evaluation query
+15 database xml relational
+15 database data relational
+14 world
+14 hierarchical
+14 wireless
+14 distribution
+14 incremental
+14 string
+14 disk
+14 closure
+14 relationship
+14 secure
+14 version
+14 labeled
+14 twig
+14 missing
+14 conversion
+14 synopsis
+14 rfid
+14 query design
+14 query materialized
+14 data semi
+14 stream load
+14 maintaining data
+14 database practical
+14 query multiple
+14 data multidimensional
+14 database type
+14 data security
+14 interface data
+14 data biological
+14 machine data
+14 stream efficient
+14 monitoring query
+14 memory main
+14 data labeled
+14 data summary
+14 xml path
+14 query nested
+14 processing aggregate
+14 database functional
+14 design physical
+14 strategy processing
+14 database physical
+14 query engine
+14 database concurrency
+14 database operation
+14 data exploiting
+14 data transformation
+14 data shared
+14 data placement
+14 data stream continuous
+14 query data efficient
+14 database query temporal
+13 partial
+13 development
+13 mechanism
+13 extensible
+13 enhanced
+13 improving
+13 benchmark
+13 duplicate
+13 computing
+13 estimating
+13 spatio
+13 uniform
+13 property
+13 protocol
+13 reverse
+13 evolving
+13 transitive
+13 migration
+13 implementation query
+13 data materialized
+13 query aggregation
+13 data physical
+13 strategy data
+13 structured semi
+13 heterogeneous source
+13 query schema
+13 processing access
+13 evaluation xml
+13 oriented processing
+13 query olap
+13 data top
+13 data effective
+13 query window
+13 stream framework
+13 data dependency
+13 data partitioning
+13 stream distributed
+13 data missing
+13 spatio temporal
+13 query interactive
+13 database security
+13 query expression
+13 query skyline
+13 xml publishing
+13 structured data semi
+13 query data answering
+13 database oriented relational
+13 query processing continuous
+13 strategy query processing
+13 query data continuous
+13 query data stream processing
+12 statistic
+12 allocation
+12 similarity
+12 intelligent
+12 infrastructure
+12 consistent
+12 novel
+12 constrained
+12 report
+12 datalog
+12 subspace
+12 wavelet
+12 opportunity
+12 multiprocessor
+12 click
+12 declustering
+12 requirement data
+12 query scalable
+12 stream shedding
+12 database engineering
+12 data event
+12 database mobile
+12 processing optimization
+12 query cube
+12 database uncertain
+12 query selectivity
+12 data subspace
+12 database shared
+12 object moving
+12 data rfid
+12 database multiple
+12 data efficiently
+12 data detecting
+12 database continuous
+12 data evolving
+12 stream aggregate
+12 data exploration
+12 data nearest
+12 rewriting view
+12 panel data
+12 type query
+12 database issue
+12 xml data relational
+12 data processing efficient
+12 query rewriting view
+12 data stream framework
+12 query materialized view
+11 direction
+11 class
+11 foundation
+11 metadata
+11 implementing
+11 analytical
+11 facility
+11 project
+11 dimension
+11 survey
+11 redundancy
+11 signature
+11 formulation
+11 composite
+11 textual
+11 numerical
+11 capturing
+11 safety
+11 transactional
+11 sliding
+11 derived
+11 rdf
+11 location
+11 biased
+11 exploratory
+11 private
+11 basket
+11 monitoring stream
+11 data internet
+11 data attribute
+11 database replication
+11 processing xpath
+11 object temporal
+11 integrated data
+11 challenge database
+11 query visual
+11 database approximate
+11 query algebra
+11 maintenance warehouse
+11 relational expression
+11 xml update
+11 xml twig
+11 data business
+11 data relation
+11 xml access
+11 xml indexing
+11 adaptive stream
+11 query uncertain
+11 query scheme
+11 base query
+11 data visual
+11 data wavelet
+11 technology data
+11 query expressive
+11 data translation
+11 window sliding
+11 data modelling
+11 database structure
+11 query formulation
+11 architecture query
+11 data path
+11 xml storage
+11 closure transitive
+11 functional dependency
+11 server sql
+11 database updating
+11 data neighbor
+11 world data
+11 manager data
+11 database processor
+11 data shedding
+11 view answering
+11 database cache
+11 database partitioning
+11 data definition
+11 data issue
+11 database service
+11 implementation data
+11 data basket
+11 database tutorial
+11 database path
+11 stream load shedding
+11 integration query data
+11 data maintenance warehouse
+11 query processing join
+11 query stream continuous
+11 database memory main
+11 data stream window
+11 database design physical
+11 data neighbor nearest
+11 query view answering
+10 recovery
+10 flexible
+10 automating
+10 example
+10 fuzzy
+10 uncertainty
+10 checking
+10 autonomous
+10 collection
+10 personal
+10 peer
+10 dictionary
+10 buffer
+10 designing
+10 manufacturing
+10 inference
+10 global
+10 correlated
+10 conscious
+10 p2p
+10 introduction
+10 protection
+10 paper
+10 snapshot
+10 authorization
+10 lightweight
+10 codasyl
+10 mapping database
+10 data distribution
+10 data specification
+10 query tool
+10 data caching
+10 stream join
+10 query summary
+10 database nested
+10 integration xml
+10 database value
+10 database visual
+10 data table
+10 query decomposition
+10 view maintenance
+10 cube olap
+10 indexing efficient
+10 query equivalence
+10 processing complex
+10 type abstract
+10 query regular
+10 data click
+10 data manipulation
+10 processing top
+10 data migration
+10 query load
+10 tool design
+10 server client
+10 data online
+10 database engine
+10 data synopsis
+10 database computer
+10 processing engine
+10 database experience
+10 integrating database
+10 mapping schema
+10 data partitioned
+10 processing technique
+10 data sampling
+10 data capturing
+10 database generalized
+10 relational optimization
+10 value data
+10 query datalog
+10 stream optimization
+10 data materialized view
+10 database query efficient
+10 spatial query processing
+10 object oriented relational
+10 evaluation query xml
+10 database object processing
+10 object query complex
+10 query processing access
+10 query processing aggregate
+10 data stream aggregate
+10 data load shedding
+10 query processing relational
+9 power
+9 resource
+9 routing
+9 comparison
+9 enterprise
+9 availability
+9 grid
+9 inferring
+9 static
+9 proximity
+9 organization
+9 structural
+9 automated
+9 hypertext
+9 genome
+9 translating
+9 history
+9 parametric
+9 networked
+9 external
+9 kernel
+9 fixed
+9 imbalanced
+9 exploring
+9 merging
+9 automaton
+9 creation
+9 prefetching
+9 log
+9 overlay
+9 outsourced
+9 methodology
+9 testing
+9 progressive
+9 clickthrough
+9 commercial
+9 enabling
+9 ranked
+9 toolkit
+9 parallelism
+9 anonymization
+9 lineage
+9 database locking
+9 database consistency
+9 data deductive
+9 operator query
+9 data historical
+9 memory query
+9 database transformation
+9 data centric
+9 data imbalanced
+9 query streaming
+9 database effective
+9 object spatial
+9 nested relational
+9 query functional
+9 cost query
+9 object optimization
+9 management query
+9 database aggregation
+9 dimensional query
+9 structure query
+9 data clickthrough
+9 database algebraic
+9 query algebraic
+9 object deductive
+9 query moving
+9 database db2
+9 xml join
+9 hierarchical data
+9 data functional
+9 data experience
+9 stream approximate
+9 data project
+9 parallel processing
+9 database version
+9 query table
+9 query compressed
+9 object schema
+9 highly data
+9 server microsoft
+9 sql microsoft
+9 database internet
+9 database multiprocessor
+9 query size
+9 data providing
+9 database modeling
+9 software data
+9 perspective data
+9 database automated
+9 data active
+9 design logical
+9 query sampling
+9 data dictionary
+9 query efficiently
+9 efficient computation
+9 privacy publishing
+9 data practice
+9 query file
+9 data exploratory
+9 data numerical
+9 data protection
+9 data tutorial
+9 database exploration
+9 query incomplete
+9 data conversion
+9 processing transaction
+9 data dbms
+9 management memory
+9 monitoring data stream
+9 heterogeneous data source
+9 query processing optimization
+9 object oriented processing
+9 query oriented processing
+9 object query optimization
+9 type data abstract
+9 database object deductive
+9 database object schema
+9 server sql microsoft
+9 data stream distributed
+9 database spatial query
+9 data privacy publishing
+9 data stream efficient
+9 query processing top
+9 database object oriented relational
+8 robust
+8 versus
+8 normal
+8 extended
+8 restructuring
+8 star
+8 declarative
+8 direct
+8 keyword
+8 browsing
+8 medium
+8 stored
+8 classifying
+8 telecommunication
+8 correlation
+8 tolerant
+8 developing
+8 progress
+8 decidability
+8 validation
+8 beyond
+8 sensitive
+8 reducing
+8 aspect
+8 connected
+8 inconsistent
+8 characterization
+8 independence
+8 delivery
+8 oodb
+8 demand
+8 analyzing
+8 resident
+8 advanced
+8 genomic
+8 acyclic
+8 bridging
+8 infinite
+8 accessing
+8 clustered
+8 expensive
+8 null
+8 rdbms
+8 throughput
+8 native
+8 guarantee
+8 drifting
+8 database multiversion
+8 database maintaining
+8 data allocation
+8 data string
+8 data metadata
+8 data intelligent
+8 database adaptive
+8 database biological
+8 xml xpath
+8 database moving
+8 query exploiting
+8 processing sensor
+8 data delivery
+8 data complexity
+8 query dependency
+8 processing event
+8 wireless data
+8 query effective
+8 operator data
+8 environment processing
+8 result data
+8 view warehouse
+8 database checking
+8 database algebra
+8 querying efficient
+8 database equivalence
+8 self data
+8 data inference
+8 data derived
+8 data dimension
+8 query imprecise
+8 database answering
+8 approximate answering
+8 oriented deductive
+8 query indexing
+8 efficient access
+8 data consistency
+8 data independent
+8 data evaluating
+8 management scientific
+8 processing approximate
+8 conjunctive containment
+8 query generalized
+8 database uniform
+8 database mechanism
+8 stream sliding
+8 parallel shared
+8 study data
+8 query spatio
+8 xml sql
+8 data operation
+8 database optimizing
+8 database event
+8 adaptive processing
+8 data commerce
+8 database practice
+8 data middleware
+8 database historical
+8 processing sql
+8 relational operation
+8 database partitioned
+8 expression path
+8 storage relational
+8 database cad
+8 panel research
+8 database direction
+8 data imprecise
+8 data computation
+8 data duplicate
+8 database recursive
+8 database searching
+8 database index
+8 processing temporal
+8 query semantics
+8 base management
+8 base efficient
+8 management efficient
+8 data drifting
+8 stream drifting
+8 data relationship
+8 data evolution
+8 data computer
+8 database sequence
+8 normal form
+8 database independent
+8 database highly
+8 relational abstract
+8 implementation relational
+8 query cache
+8 relational join
+8 database codasyl
+8 query db2
+8 cost database
+8 xml dissemination
+8 xml optimization
+8 query location
+8 query data source
+8 database oriented processing
+8 data view maintenance
+8 data view warehouse
+8 data cube olap
+8 querying xml data
+8 xml data indexing
+8 adaptive data stream
+8 query processing complex
+8 query approximate answering
+8 database oriented deductive
+8 database integration data
+8 query xml path
+8 query parallel processing
+8 query conjunctive containment
+8 stream window sliding
+8 query spatio temporal
+8 query adaptive processing
+8 database query supporting
+8 database panel research
+8 query processing temporal
+8 database processing relational
+8 base management data
+8 base query data
+8 base data efficient
+8 data stream drifting
+8 query data relational
+8 query stream optimization
+8 database object query processing
+8 query data processing efficient
+8 query data stream continuous
+7 description
+7 prototype
+7 plan
+7 abstraction
+7 insurance
+7 automatically
+7 generating
+7 recent
+7 experiment
+7 digital
+7 extending
+7 concurrent
+7 mediator
+7 optimized
+7 pre
+7 indefinite
+7 region
+7 propagation
+7 modification
+7 simple
+7 hardware
+7 negation
+7 unifying
+7 device
+7 graphical
+7 complete
+7 community
+7 granularity
+7 interval
+7 trigger
+7 fault
+7 configuration
+7 sum
+7 containing
+7 intensional
+7 pull
+7 tradeoff
+7 cyclic
+7 miner
+7 ibm
+7 mine
+7 adaptable
+7 inclusion
+7 anonymity
+7 tier
+7 tuples
+7 java
+7 auditing
+7 implementation design
+7 recent data
+7 change stream
+7 storage efficient
+7 view efficient
+7 view warehousing
+7 database workload
+7 framework temporal
+7 heterogeneous processing
+7 database attribute
+7 environment mobile
+7 query computation
+7 operator relational
+7 query federated
+7 database summary
+7 database multidimensional
+7 cube range
+7 rewriting xml
+7 cost data
+7 data constrained
+7 object framework
+7 processing recursive
+7 structured unstructured
+7 query unstructured
+7 dimensional subspace
+7 database discovering
+7 hierarchy data
+7 data genomic
+7 object design
+7 design methodology
+7 distributed continuous
+7 query similarity
+7 data pull
+7 path regular
+7 data miner
+7 data algebra
+7 query value
+7 description data
+7 data correlation
+7 data textual
+7 xml repository
+7 data kernel
+7 insurance data
+7 data analyzing
+7 processing skyline
+7 data computing
+7 evaluation stream
+7 partial data
+7 data biased
+7 structure relational
+7 database development
+7 query presence
+7 object supporting
+7 query warehouse
+7 management design
+7 data compressed
+7 database manipulation
+7 database client
+7 oriented schema
+7 optimization join
+7 query multidimensional
+7 query driven
+7 query ranked
+7 query storage
+7 distributed join
+7 database sampling
+7 database array
+7 data client
+7 stream event
+7 query internet
+7 rewriting data
+7 data integrity
+7 environment heterogeneous
+7 data manufacturing
+7 panel abstract
+7 data improving
+7 data anonymization
+7 query statistic
+7 query expensive
+7 efficient index
+7 stream sensor
+7 data generalized
+7 relational engine
+7 data size
+7 efficient cube
+7 evaluation relational
+7 data enhanced
+7 database form
+7 data extension
+7 object semantics
+7 query attribute
+7 query preserving
+7 query sharing
+7 efficient relational
+7 database expression
+7 panel management
+7 evaluation performance
+7 processing scalable
+7 optimization technique
+7 mobile query
+7 structure efficient
+7 query fixed
+7 data property
+7 database perspective
+7 database commercial
+7 database imprecise
+7 stream massive
+7 processing framework
+7 database stream
+7 query transformation
+7 data algebraic
+7 database complexity
+7 expression regular
+7 parallel optimization
+7 processing update
+7 query abstract
+7 database acyclic
+7 design relational
+7 data stored
+7 database integrated
+7 abstraction data
+7 data file
+7 efficient top
+7 database oracle
+7 service query
+7 management issue
+7 access path
+7 relational supporting
+7 querying relational
+7 database dimensional
+7 data change stream
+7 data view warehousing
+7 query processing sensor
+7 environment query processing
+7 evaluation xml efficient
+7 query data range
+7 query data optimization
+7 data indexing efficient
+7 query processing recursive
+7 dimensional data subspace
+7 database query answering
+7 object oriented deductive
+7 data stream join
+7 query data warehouse
+7 database oriented schema
+7 object oriented schema
+7 integration xml data
+7 data stream shedding
+7 structured query data
+7 database query top
+7 query xml stream
+7 data efficient cube
+7 query data aggregate
+7 data stream massive
+7 data processing relational
+7 database functional dependency
+7 query xml view
+7 query efficient top
+7 management memory data
+7 database object oriented processing
+7 object query oriented processing
+7 database object oriented deductive
+7 database object oriented schema
+6 building
+6 virtual
+6 sequential
+6 hiding
+6 balancing
+6 net
+6 party
+6 meta
+6 applying
+6 accuracy
+6 hashing
+6 characteristic
+6 consideration
+6 binary
+6 relaxed
+6 chain
+6 labeling
+6 collaborative
+6 locating
+6 inductive
+6 electronic
+6 bitmap
+6 energy
+6 deterministic
+6 principle
+6 available
+6 cooperative
+6 difference
+6 limitation
+6 molecular
+6 manipulating
+6 directory
+6 easy
+6 revisited
+6 aided
+6 improve
+6 primitive
+6 push
+6 skew
+6 reordering
+6 histogram
+6 capability
+6 market
+6 grained
+6 union
+6 performing
+6 verification
+6 associative
+6 graphic
+6 compressing
+6 split
+6 read
+6 specifying
+6 delay
+6 scalability
+6 buffering
+6 extensibility
+6 store
+6 2005
+6 pipelined
+6 bibliographic
+6 decade
+6 resilient
+6 vertically
+6 aqualogic
+6 sap
+6 reorganization
+6 database allocation
+6 environment efficient
+6 query maintenance
+6 data digital
+6 data cache
+6 strategy distributed
+6 data workload
+6 searching data
+6 data array
+6 query consistent
+6 database providing
+6 database indefinite
+6 database survey
+6 type relational
+6 data classifying
+6 example data
+6 data unifying
+6 data granularity
+6 database propagation
+6 mapping query
+6 sequential data
+6 data exploring
+6 database disk
+6 maintaining stream
+6 database execution
+6 query oodb
+6 routing query
+6 data incremental
+6 efficient warehouse
+6 integration schema
+6 database change
+6 framework optimization
+6 object view
+6 processing analytical
+6 object update
+6 query rdf
+6 database browsing
+6 xml automaton
+6 plan query
+6 relational sql
+6 data market
+6 database olap
+6 statistical query
+6 data research
+6 scheme indexing
+6 object efficient
+6 base processing
+6 query reverse
+6 database methodology
+6 querying source
+6 data histogram
+6 processing processor
+6 uncertainty data
+6 execution data
+6 data expressive
+6 relational technique
+6 gene microarray
+6 data grid
+6 data toolkit
+6 universal db2
+6 integration relational
+6 data federated
+6 data main
+6 database privacy
+6 query sliding
+6 efficient range
+6 data novel
+6 data spatio
+6 database compression
+6 data sliding
+6 resource data
+6 expansion interactive
+6 query privacy
+6 query log
+6 class data
+6 relational incomplete
+6 database efficiently
+6 distributed efficient
+6 nested optimization
+6 schema translation
+6 database foundation
+6 database placement
+6 data disk
+6 data declustering
+6 approximate join
+6 management architecture
+6 processing load
+6 query multimedia
+6 database authorization
+6 xml index
+6 query twig
+6 querying stream
+6 environment sharing
+6 database inconsistent
+6 stream evolving
+6 database automating
+6 database implementing
+6 software engineering
+6 data demand
+6 data estimating
+6 database software
+6 managing relational
+6 xml expression
+6 database evaluating
+6 xml processor
+6 stream processor
+6 database global
+6 database secure
+6 data enterprise
+6 data developing
+6 panel direction
+6 query sequence
+6 database source
+6 data protocol
+6 data lineage
+6 database sharing
+6 data redundancy
+6 data extensible
+6 preserving publishing
+6 database spatio
+6 relational update
+6 stream engine
+6 database composite
+6 object composite
+6 processing path
+6 generating query
+6 base tool
+6 data binary
+6 interactive exploration
+6 privacy partitioned
+6 machine performance
+6 implementation efficient
+6 data vertically
+6 structure distributed
+6 data opportunity
+6 data personal
+6 database autonomous
+6 data collaborative
+6 database scale
+6 database aggregate
+6 data lightweight
+6 query decidability
+6 tolerant fault
+6 data independence
+6 platform service
+6 platform aqualogic
+6 service aqualogic
+6 data aqualogic
+6 database materialized
+6 machine relational
+6 optimization recursive
+6 relational translation
+6 view update
+6 data concurrent
+6 database handling
+6 database preserving
+6 database decomposition
+6 database protocol
+6 query array
+6 database conversion
+6 database facility
+6 towards processing
+6 service oriented
+6 development data
+6 data cad
+6 xml xquery
+6 database dbms
+6 query universal
+6 data skew
+6 base distributed
+6 data repository
+6 base interactive
+6 view xpath
+6 query star
+6 database data distributed
+6 heterogeneous query source
+6 database object temporal
+6 xml data processing
+6 heterogeneous query processing
+6 evaluation data efficient
+6 xml relational schema
+6 object spatial query
+6 data efficient warehouse
+6 database object view
+6 database view relational
+6 xml processing efficient
+6 query data cube
+6 query data top
+6 query data olap
+6 query cube range
+6 query rewriting xml
+6 database object update
+6 querying data efficient
+6 object query relational
+6 querying data source
+6 data gene microarray
+6 stream processing efficient
+6 database object moving
+6 object query moving
+6 database universal db2
+6 database integration relational
+6 query window sliding
+6 data spatio temporal
+6 data window sliding
+6 query expansion interactive
+6 xml data path
+6 query processing approximate
+6 database object supporting
+6 query nested optimization
+6 database tool design
+6 database server client
+6 query stream window
+6 query optimization join
+6 management data scientific
+6 querying data stream
+6 data stream load
+6 environment data sharing
+6 data stream evolving
+6 database tool data
+6 tool design data
+6 database data storage
+6 database management data
+6 database design logical
+6 query processing skyline
+6 database evaluation relational
+6 data preserving publishing
+6 privacy preserving publishing
+6 database spatio temporal
+6 database query update
+6 base tool data
+6 data privacy partitioned
+6 structure data distributed
+6 platform service data
+6 platform service aqualogic
+6 platform data aqualogic
+6 service data aqualogic
+6 database materialized view
+6 database server sql
+6 database query incomplete
+6 query relational optimization
+6 query optimization recursive
+6 database query distributed
+6 query optimization technique
+6 database design relational
+6 database nested relational
+6 database data parallel
+6 stream processing continuous
+6 base data distributed
+6 xml data dissemination
+6 query xml optimization
+6 base data interactive
+6 query view xpath
+6 xml data publishing
+6 evaluation query xml efficient
+6 data stream load shedding
+6 data privacy preserving publishing
+6 platform service data aqualogic
+5 advisor
+5 composition
+5 safe
+5 partially
+5 asynchronous
+5 tractable
+5 communication
+5 navigation
+5 adaptively
+5 geometric
+5 library
+5 interaction
+5 effectiveness
+5 publish
+5 subscribe
+5 profile
+5 step
+5 theoretical
+5 trade
+5 facilitating
+5 encoding
+5 guided
+5 scheduling
+5 representing
+5 block
+5 overlapping
+5 structuring
+5 solution
+5 spatiotemporal
+5 hoc
+5 reduction
+5 contention
+5 summarization
+5 channel
+5 disjunctive
+5 ancestor
+5 leveraging
+5 assessment
+5 customer
+5 intent
+5 prediction
+5 hypothetical
+5 getting
+5 synthesizing
+5 lazy
+5 utility
+5 traditional
+5 comparing
+5 filter
+5 identifying
+5 style
+5 current
+5 divide
+5 loosely
+5 compact
+5 public
+5 organized
+5 batch
+5 typed
+5 fragmentation
+5 enabled
+5 center
+5 geographic
+5 vertical
+5 workflow
+5 middle
+5 strength
+5 skewed
+5 road
+5 vlsi
+5 attack
+5 embedded
+5 locally
+5 conventional
+5 pervasive
+5 pair
+5 reconciling
+5 minimizing
+5 estimator
+5 hierarchically
+5 count
+5 legacy
+5 versioning
+5 powerful
+5 telecom
+5 pictorial
+5 spot
+5 indexed
+5 tertiary
+5 continuously
+5 indicator
+5 pushing
+5 quantification
+5 right
+5 optimizers
+5 succinct
+5 rdb
+5 subqueries
+5 column
+5 quorum
+5 multicast
+5 demo
+5 token
+5 loading
+5 inside
+5 scalar
+5 watermarking
+5 incrementally
+5 federation
+5 vldb
+5 data party
+5 internet scale
+5 publish subscribe
+5 operator processing
+5 query closure
+5 xml benchmark
+5 evaluation strategy
+5 caching server
+5 data collection
+5 database genome
+5 query translating
+5 join window
+5 integrating query
+5 database sensor
+5 oriented temporal
+5 dimensional indexing
+5 integration source
+5 data validation
+5 xml approximate
+5 database hierarchy
+5 object hierarchy
+5 hierarchy oriented
+5 schema source
+5 integration heterogeneous
+5 database report
+5 operator stream
+5 structured xml
+5 environment distributed
+5 query workload
+5 query overlay
+5 data organized
+5 xml streaming
+5 multiple efficient
+5 efficient streaming
+5 environment warehouse
+5 incremental maintenance
+5 data channel
+5 processing twig
+5 efficient twig
+5 oriented indexing
+5 data analytical
+5 data report
+5 uncertain top
+5 object querying
+5 stream xpath
+5 cost optimization
+5 object management
+5 data secure
+5 query union
+5 adaptive continuous
+5 processing multiple
+5 processing server
+5 efficient join
+5 query signature
+5 scheme efficient
+5 neighbor reverse
+5 nearest reverse
+5 design oriented
+5 xml framework
+5 object implementation
+5 querying structured
+5 data molecular
+5 architecture processing
+5 processing uncertain
+5 data sequence
+5 database private
+5 data push
+5 data networked
+5 query click
+5 xml caching
+5 processing deductive
+5 support query
+5 query sum
+5 query progressive
+5 data sum
+5 database commerce
+5 database interactive
+5 data private
+5 fuzzy data
+5 recovery data
+5 data inferring
+5 olap warehouse
+5 query independent
+5 predicate data
+5 data transactional
+5 data skyline
+5 data regular
+5 query wireless
+5 xml compressed
+5 summary table
+5 query hierarchical
+5 database throughput
+5 database graphical
+5 database static
+5 management tool
+5 database evolution
+5 class query
+5 query transitive
+5 statistical management
+5 database visualization
+5 query p2p
+5 online stream
+5 query progress
+5 schema evolution
+5 query negation
+5 xml managing
+5 server 2005
+5 sql 2005
+5 microsoft 2005
+5 distributed optimization
+5 xml driven
+5 database cluster
+5 storage processing
+5 query specification
+5 mapping xml
+5 query incremental
+5 query optimizers
+5 stream rfid
+5 database safety
+5 performance processing
+5 query estimating
+5 environment broadcast
+5 data anonymity
+5 data connected
+5 database distribution
+5 extracting query
+5 management server
+5 flexible data
+5 database operator
+5 database answer
+5 transaction replicated
+5 object type
+5 mapping relational
+5 query form
+5 database recovery
+5 data accuracy
+5 data leveraging
+5 database study
+5 database decade
+5 engineering management
+5 data meta
+5 efficient path
+5 management environment
+5 query modification
+5 database accessing
+5 checking integrity
+5 management access
+5 direction research
+5 database monitoring
+5 monitoring continuous
+5 management mobile
+5 database extension
+5 object environment
+5 data moving
+5 xml db2
+5 data tolerant
+5 protocol replicated
+5 mobile access
+5 data resilient
+5 database buffer
+5 data buffer
+5 database computation
+5 query correlated
+5 database enhanced
+5 database advanced
+5 data peer
+5 data reduction
+5 challenge management
+5 dependency inclusion
+5 data organization
+5 performance relational
+5 query direct
+5 machine multiprocessor
+5 database requirement
+5 efficient sql
+5 data locating
+5 data mine
+5 data survey
+5 stream synopsis
+5 preserving partitioned
+5 structured overlay
+5 distributed scalable
+5 database closure
+5 database transitive
+5 data store
+5 query dimension
+5 privacy vertically
+5 partitioned vertically
+5 spatial efficient
+5 data conscious
+5 relational aggregate
+5 interface relational
+5 database consistent
+5 normal relational
+5 relational form
+5 xml regular
+5 data xquery
+5 database null
+5 strategy optimization
+5 data db2
+5 memory processing
+5 database tier
+5 database snapshot
+5 database trigger
+5 distributed view
+5 query safety
+5 scheme acyclic
+5 database expressive
+5 query testing
+5 query semistructured
+5 query partitioning
+5 example query
+5 database improving
+5 processing incomplete
+5 database interval
+5 value null
+5 dimensional framework
+5 data center
+5 experiment technique
+5 querying query
+5 relational relation
+5 access relational
+5 database modelling
+5 query logical
+5 database microsoft
+5 object cad
+5 stream expression
+5 query autonomous
+5 database federation
+5 optimization exploiting
+5 database aware
+5 data paper
+5 database embedded
+5 strategy recursive
+5 data processor
+5 data microsoft
+5 management stream
+5 architecture server
+5 data external
+5 query parametric
+5 data oracle
+5 database bridging
+5 query dbms
+5 relational dbms
+5 evaluation optimization
+5 optimizing sql
+5 database middleware
+5 base view
+5 data infrastructure
+5 data overlay
+5 data p2p
+5 query event
+5 highly available
+5 answering top
+5 base implementation
+5 data view efficient
+5 database evaluation efficient
+5 stream join window
+5 query processing xpath
+5 object oriented temporal
+5 dimensional data indexing
+5 integration data source
+5 database object hierarchy
+5 database hierarchy oriented
+5 object hierarchy oriented
+5 environment mobile data
+5 database interface query
+5 maintaining data stream
+5 evaluation query data
+5 evaluation xml data
+5 environment data warehouse
+5 query framework optimization
+5 xml stream processing
+5 cost query optimization
+5 xml indexing efficient
+5 database query uncertain
+5 neighbor nearest reverse
+5 database object design
+5 database design methodology
+5 query path regular
+5 query xml caching
+5 database processing deductive
+5 data efficient access
+5 database data abstract
+5 data distributed processing
+5 query data towards
+5 data processing join
+5 data stream approximate
+5 query relational algebra
+5 database statistical management
+5 query data window
+5 data stream sliding
+5 data online stream
+5 data processing aggregate
+5 strategy distributed processing
+5 server sql 2005
+5 server microsoft 2005
+5 sql microsoft 2005
+5 management architecture data
+5 query distributed optimization
+5 object data complex
+5 data stream rfid
+5 query performance processing
+5 environment data broadcast
+5 environment heterogeneous data
+5 database query complex
+5 software engineering data
+5 query processing technique
+5 database managing relational
+5 database object efficient
+5 database design data
+5 database object data
+5 query stream processor
+5 database xml data
+5 xml storage relational
+5 data storage relational
+5 database checking integrity
+5 database panel direction
+5 database direction research
+5 panel direction research
+5 database parallel shared
+5 query rewriting data
+5 query data efficiently
+5 data efficient computation
+5 challenge management data
+5 database data supporting
+5 database panel management
+5 stream processing engine
+5 database machine multiprocessor
+5 query processing path
+5 data interactive exploration
+5 data stream synopsis
+5 data view relational
+5 query adaptive data
+5 data preserving partitioned
+5 privacy preserving partitioned
+5 database machine performance
+5 database closure transitive
+5 data privacy vertically
+5 data partitioned vertically
+5 privacy partitioned vertically
+5 aware query data
+5 query processing framework
+5 normal relational form
+5 strategy query optimization
+5 query parallel optimization
+5 database processing temporal
+5 xml data stream
+5 query processing incomplete
+5 database implementation query
+5 dimensional data framework
+5 strategy query recursive
+5 management data stream
+5 database query continuous
+5 data relational abstract
+5 database access path
+5 database query universal
+5 data processing continuous
+5 database query spatio
+5 query processing scalable
+5 database relational supporting
+5 base data view
+5 query data uncertain
+5 database relational optimization
+5 query answering top
+5 base implementation data
+5 database object hierarchy oriented
+5 database query oriented processing
+5 xml data indexing efficient
+5 data stream window sliding
+5 server sql microsoft 2005
+5 database panel direction research
+5 data privacy preserving partitioned
+5 data privacy partitioned vertically
+5 database query processing temporal
+5 data stream processing continuous
+5 database query spatio temporal
+5 database object query oriented processing
+4 formal
+4 low
+4 describing
+4 assignment
+4 procedure
+4 homogeneous
+4 filtering
+4 variation
+4 generic
+4 role
+4 completeness
+4 instance
+4 assumption
+4 projection
+4 test
+4 refinement
+4 overview
+4 match
+4 precision
+4 science
+4 name
+4 reuse
+4 advance
+4 multilevel
+4 rapid
+4 mass
+4 weight
+4 transparent
+4 operational
+4 reliability
+4 record
+4 minimization
+4 minimal
+4 hybrid
+4 runtime
+4 noise
+4 session
+4 failure
+4 organizing
+4 unix
+4 assertion
+4 gathering
+4 dynamically
+4 closed
+4 incorporating
+4 delta
+4 diagram
+4 clue
+4 expressiveness
+4 compliant
+4 position
+4 horizontal
+4 preliminary
+4 adapting
+4 quantifier
+4 holistic
+4 continual
+4 reachability
+4 foreign
+4 industrial
+4 dtds
+4 sort
+4 unordered
+4 representative
+4 micro
+4 versatile
+4 wide
+4 dealing
+4 outlier
+4 threshold
+4 alpha
+4 spreadsheet
+4 tracing
+4 enhancing
+4 storing
+4 proactive
+4 sale
+4 involving
+4 reformulation
+4 worst
+4 capacity
+4 mediated
+4 eye
+4 bank
+4 tabular
+4 dream
+4 geo
+4 sample
+4 preprocessing
+4 positive
+4 leakage
+4 intermittently
+4 revolution
+4 scan
+4 taming
+4 presentation
+4 transducer
+4 friendly
+4 bulk
+4 merge
+4 joining
+4 xxl
+4 untrusted
+4 preservation
+4 freshness
+4 corba
+4 bea
+4 unnesting
+4 quantiles
+4 polymorphic
+4 oltp
+4 bringing
+4 heterogeneity
+4 purchase
+4 arbitrarily
+4 humming
+4 anonymizing
+4 burst
+4 manage
+4 heavy
+4 provenance
+4 thousand
+4 administration
+4 accelerator
+4 starburst
+4 dataflow
+4 bubble
+4 garbage
+4 cam
+4 data adaptively
+4 adaptively stream
+4 environment view
+4 environment warehousing
+4 materialized warehousing
+4 operator xml
+4 design optimization
+4 data library
+4 database proximity
+4 data structural
+4 database characteristic
+4 database relaxed
+4 database transparent
+4 database selectivity
+4 data hypertext
+4 distributed source
+4 data traditional
+4 oriented integrity
+4 relational temporal
+4 data consistent
+4 answering complexity
+4 result database
+4 integration processing
+4 wireless broadcast
+4 indexing technique
+4 stream relational
+4 data signature
+4 database partial
+4 data merging
+4 optimization federated
+4 database routing
+4 database derived
+4 environment maintenance
+4 data batch
+4 processing decomposition
+4 incremental efficient
+4 efficient maintenance
+4 relational algebraic
+4 xml change
+4 optimization aggregate
+4 object indexing
+4 data fragmentation
+4 distributed warehouse
+4 platform integration
+4 database extending
+4 database resident
+4 database signature
+4 database outsourced
+4 query mechanism
+4 query server
+4 extracting structured
+4 versus data
+4 view multiple
+4 data advanced
+4 database similarity
+4 database difference
+4 dimension olap
+4 dimensional neighbor
+4 dimensional nearest
+4 query automaton
+4 tool relational
+4 tool visual
+4 implementation oriented
+4 query self
+4 data performing
+4 data noise
+4 database intelligent
+4 push pull
+4 data device
+4 data compressing
+4 data configuration
+4 autonomous data
+4 approximate wavelet
+4 cube sum
+4 ibm db2
+4 data presence
+4 access broadcast
+4 view updating
+4 deductive answering
+4 database nearest
+4 indexing towards
+4 data attack
+4 data correlated
+4 stream correlated
+4 data loosely
+4 xml warehouse
+4 distributed privacy
+4 stream semantics
+4 data pervasive
+4 storage scheme
+4 efficient uncertain
+4 stream detecting
+4 view optimization
+4 database computing
+4 partial query
+4 evaluation path
+4 stream biased
+4 database merging
+4 wireless sensor
+4 processing optimizing
+4 labeled unlabeled
+4 database community
+4 view aggregate
+4 management version
+4 support xml
+4 query multiversion
+4 xml complex
+4 processing table
+4 management xml
+4 oriented supporting
+4 access supporting
+4 processing warehouse
+4 management oriented
+4 processing efficiently
+4 schema independent
+4 management temporal
+4 database extensible
+4 relational manipulation
+4 object evolution
+4 evaluation processing
+4 database typed
+4 data guarantee
+4 power data
+4 data concurrency
+4 optimization progressive
+4 access authorization
+4 structure scalable
+4 data introduction
+4 database exploiting
+4 query continuously
+4 processing moving
+4 query scientific
+4 database declustering
+4 conjunctive union
+4 spatial join
+4 data ranked
+4 propagation update
+4 multidimensional array
+4 preliminary report
+4 efficient expression
+4 interface schema
+4 database uncertainty
+4 database enabling
+4 processing rfid
+4 query parallelism
+4 data version
+4 query distribution
+4 environment access
+4 stream aggregation
+4 database synthesizing
+4 wireless access
+4 multiple access
+4 database flexible
+4 query extension
+4 relational recursive
+4 database composition
+4 database hardware
+4 medium continuous
+4 database read
+4 database restructuring
+4 data enabled
+4 semantics active
+4 heterogeneous distributed
+4 xpath streaming
+4 data scheduling
+4 database tuples
+4 dimensional efficient
+4 dimensional cluster
+4 data theoretical
+4 data aspect
+4 stream multiple
+4 relational top
+4 study query
+4 query prefetching
+4 processing driven
+4 technique compression
+4 database java
+4 hiding data
+4 indexing index
+4 index path
+4 data outsourced
+4 tuning automated
+4 asynchronous data
+4 querying semistructured
+4 database transactional
+4 deductive relational
+4 view regular
+4 database size
+4 processing business
+4 data pictorial
+4 data telecommunication
+4 database developing
+4 data accessing
+4 checking deductive
+4 deductive integrity
+4 evaluation deductive
+4 query capability
+4 data similarity
+4 panel future
+4 direction future
+4 data reverse
+4 base access
+4 evaluation scheme
+4 data tabular
+4 partitioning vertical
+4 processing operation
+4 technology panel
+4 data contention
+4 data form
+4 data medium
+4 oriented semantics
+4 database versus
+4 tool practical
+4 database comparison
+4 optimization algebra
+4 requirement definition
+4 object evaluation
+4 query extensible
+4 communication data
+4 database availability
+4 processing source
+4 data testing
+4 query practical
+4 database parallelism
+4 data rdbms
+4 spatial performance
+4 spatial access
+4 management transaction
+4 data energy
+4 structured relational
+4 data engine
+4 result processing
+4 stream sql
+4 spatial technique
+4 query issue
+4 processing issue
+4 management abstract
+4 power query
+4 aware processing
+4 oriented efficient
+4 mobile replication
+4 database manipulating
+4 query handling
+4 database generating
+4 data guided
+4 interactive visualization
+4 data skewed
+4 data customer
+4 data sale
+4 data purchase
+4 database quality
+4 database textual
+4 dimensional visualization
+4 architecture scalable
+4 processing oracle
+4 uncertain imprecise
+4 object version
+4 automating design
+4 machine parallel
+4 machine shared
+4 performance locking
+4 query peer
+4 object effective
+4 data genome
+4 filtering data
+4 platform database
+4 database massive
+4 preserving vertically
+4 dimensional interactive
+4 schema semistructured
+4 xml structural
+4 change detecting
+4 processing pre
+4 computation aggregate
+4 query reducing
+4 data outlier
+4 privacy protection
+4 semantics relational
+4 adaptive sampling
+4 stream scalable
+4 stream update
+4 dimensional stream
+4 data split
+4 data geometric
+4 market basket
+4 management replicated
+4 efficient replicated
+4 query exchange
+4 xml active
+4 rewriting regular
+4 database complete
+4 database decidability
+4 electronic commerce
+4 memory stream
+4 query infinite
+4 translation sql
+4 database cyclic
+4 database fuzzy
+4 database warehouse
+4 support efficient
+4 query historical
+4 caching tier
+4 machine processing
+4 database property
+4 view processing
+4 relational dependency
+4 formal data
+4 query hierarchy
+4 data snapshot
+4 query reformulation
+4 query trade
+4 recursive sql
+4 design dependency
+4 database inside
+4 query declarative
+4 xml abstract
+4 data sensitive
+4 query quantifier
+4 data availability
+4 database string
+4 relational decomposition
+4 database heterogeneity
+4 power expressive
+4 database instance
+4 xml transformation
+4 query xquery
+4 management metadata
+4 query structural
+4 query uniform
+4 relational null
+4 database simple
+4 processing expression
+4 relational logical
+4 data reconciling
+4 data solution
+4 data community
+4 aware stream
+4 data native
+4 noisy stream
+4 relational accessing
+4 database experiment
+4 query precision
+4 dimensional processing
+4 relational integrity
+4 xml visual
+4 database file
+4 query history
+4 query tuning
+4 query intent
+4 robust query
+4 manager stream
+4 evaluation temporal
+4 data mediator
+4 architecture oriented
+4 object service
+4 schema update
+4 query clustered
+4 query enabling
+4 optimization algebraic
+4 design aided
+4 environment design
+4 data creation
+4 data consideration
+4 data bubble
+4 service architecture
+4 database driven
+4 architecture client
+4 database hypertext
+4 query bitmap
+4 approximate aggregate
+4 relational publishing
+4 scalable continuous
+4 database garbage
+4 object garbage
+4 database paper
+4 database normal
+4 xml secure
+4 query tradeoff
+4 execution optimization
+4 online processing
+4 query constrained
+4 parallel placement
+4 routing data
+4 database incremental
+4 database buffering
+4 relational efficiently
+4 database extended
+4 data threshold
+4 optimization temporal
+4 base performance
+4 value relational
+4 distributed sharing
+4 monitoring sensor
+4 optimization parametric
+4 structured p2p
+4 join skew
+4 highly query
+4 database relationship
+4 processing clustered
+4 query buffer
+4 query labeling
+4 join top
+4 join supporting
+4 processing shedding
+4 query ancestor
+4 data adaptively stream
+4 database data deductive
+4 environment data view
+4 environment data efficient
+4 environment data warehousing
+4 data storage efficient
+4 data materialized warehousing
+4 data internet scale
+4 operator query processing
+4 database query design
+4 query xml xpath
+4 type data relational
+4 data distributed source
+4 database oriented integrity
+4 database relational temporal
+4 query answering complexity
+4 result database query
+4 wireless data broadcast
+4 database query towards
+4 xml data view
+4 database query federated
+4 query optimization federated
+4 query data streaming
+4 data efficient streaming
+4 environment data maintenance
+4 query processing decomposition
+4 data incremental maintenance
+4 data efficient maintenance
+4 database data scientific
+4 database relational schema
+4 query optimization aggregate
+4 xml processing twig
+4 xml efficient twig
+4 processing efficient twig
+4 database object indexing
+4 database oriented indexing
+4 object oriented indexing
+4 query cube olap
+4 data cube range
+4 database uncertain top
+4 data distributed warehouse
+4 database framework temporal
+4 query processing multiple
+4 extracting structured data
+4 data scheme indexing
+4 query scheme efficient
+4 base query processing
+4 dimensional neighbor nearest
+4 database design oriented
+4 object design oriented
+4 database object implementation
+4 database implementation design
+4 database implementation oriented
+4 query distributed continuous
+4 data push pull
+4 query processing deductive
+4 query data approximate
+4 query stream distributed
+4 stream distributed continuous
+4 query stream efficient
+4 database relational algebra
+4 data relational algebra
+4 memory data main
+4 data access broadcast
+4 database query xml
+4 query data path
+4 evaluation data stream
+4 data stream detecting
+4 query view optimization
+4 query wireless sensor
+4 data labeled unlabeled
+4 structure data relational
+4 database management scientific
+4 object data temporal
+4 query processing table
+4 query summary table
+4 management xml data
+4 database oriented supporting
+4 object oriented supporting
+4 query data distributed
+4 data distributed efficient
+4 data processing warehouse
+4 data olap warehouse
+4 distributed processing efficient
+4 database management design
+4 query xml compressed
+4 query data compressed
+4 data schema translation
+4 management data temporal
+4 database object evolution
+4 query closure transitive
+4 query stream sliding
+4 structure data scalable
+4 strategy query distributed
+4 database schema evolution
+4 query conjunctive union
+4 query data optimizing
+4 database spatial processing
+4 database processing join
+4 query storage processing
+4 query processing engine
+4 xml data index
+4 query adaptive continuous
+4 data stream event
+4 data stream aggregation
+4 query data aggregation
+4 management data server
+4 integrating database data
+4 database semantics active
+4 database memory query
+4 database query performance
+4 query processing sql
+4 database relational operation
+4 dimensional data cluster
+4 data stream multiple
+4 query data technique
+4 data processing technique
+4 data technique compression
+4 engineering management data
+4 xml efficient path
+4 database object spatial
+4 database object complex
+4 database query evaluating
+4 query xml processor
+4 xml data storage
+4 database tuning automated
+4 management environment data
+4 querying data semistructured
+4 database environment data
+4 database heterogeneous data
+4 query view regular
+4 management tool data
+4 database checking deductive
+4 database deductive integrity
+4 checking deductive integrity
+4 database panel abstract
+4 management data access
+4 database evaluation deductive
+4 database query multimedia
+4 database panel future
+4 database direction future
+4 query distributed join
+4 object oriented semantics
+4 requirement data definition
+4 database data technique
+4 query processing source
+4 spatial data access
+4 evaluation performance data
+4 database object composite
+4 result query processing
+4 database query recursive
+4 database distributed processing
+4 database oriented efficient
+4 data interactive visualization
+4 integration data schema
+4 dimensional data visualization
+4 structured query overlay
+4 database relational technique
+4 data stream sensor
+4 database machine parallel
+4 database machine shared
+4 database performance locking
+4 data distributed scalable
+4 data preserving vertically
+4 privacy preserving vertically
+4 preserving partitioned vertically
+4 dimensional data interactive
+4 data schema semistructured
+4 data change detecting
+4 query efficient computation
+4 spatial data efficient
+4 data privacy protection
+4 dimensional data stream
+4 data market basket
+4 management data efficient
+4 management data replicated
+4 structure query data
+4 database data warehouse
+4 database caching tier
+4 database machine relational
+4 database query complexity
+4 query expression path
+4 query recursive sql
+4 database environment query
+4 database design dependency
+4 database scheme acyclic
+4 database relational decomposition
+4 query data semistructured
+4 mapping data schema
+4 database processing incomplete
+4 aware data stream
+4 noisy data stream
+4 database experiment technique
+4 database implementation relational
+4 database querying xml
+4 object data relational
+4 database access relational
+4 processing efficient top
+4 object type data
+4 database server microsoft
+4 database sql microsoft
+4 query efficient path
+4 query data evaluating
+4 structured data unstructured
+4 database management issue
+4 database machine data
+4 database relational join
+4 database architecture server
+4 architecture server client
+4 query scalable continuous
+4 database object garbage
+4 database normal form
+4 execution query optimization
+4 evaluation query relational
+4 database relational incomplete
+4 database query join
+4 data parallel placement
+4 evaluation query optimization
+4 query optimizing sql
+4 base data processing
+4 base performance data
+4 querying data relational
+4 query uncertain top
+4 query optimization parametric
+4 data join skew
+4 design data logical
+4 base tool design
+4 database query optimizing
+4 query data join
+4 query join top
+4 xml stream optimization
+4 database evaluation query efficient
+4 evaluation query xml data
+4 evaluation query data efficient
+4 evaluation xml data efficient
+4 database object oriented indexing
+4 database query processing deductive
+4 database object oriented supporting
+4 query stream window sliding
+4 strategy query distributed processing
+4 database xml data relational
+4 database checking deductive integrity
+4 database query processing relational
+4 data privacy preserving vertically
+4 data preserving partitioned vertically
+4 privacy preserving partitioned vertically
+4 database query processing incomplete
+4 database object query relational
+4 query processing efficient top
+4 database server sql microsoft
+4 query data processing aggregate
+4 query data processing continuous
+4 query stream processing continuous
+4 base tool design data
+4 database query relational optimization
+4 data privacy preserving partitioned vertically
+4 query data stream processing continuous
